@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942636147513",
+    "firebase_url": "https://dongmin0511-e3a6d.firebaseio.com",
+    "project_id": "dongmin0511-e3a6d",
+    "storage_bucket": "dongmin0511-e3a6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942636147513:android:9b662d7a61dd17eb",
+        "android_client_info": {
+          "package_name": "com.example.kwon.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942636147513-9irskoe2ui2j2eu31s65i1tq084nqcsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kwon.googlesignin",
+            "certificate_hash": "be759d4e14d03245da16a5c11efd7591613aa3c5"
+          }
+        },
+        {
+          "client_id": "942636147513-v1iirb666sla705hvjijstomnrebtilf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVu2iwwyKm1rtpvE93c6BLNLskRHS0TM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942636147513-v1iirb666sla705hvjijstomnrebtilf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
